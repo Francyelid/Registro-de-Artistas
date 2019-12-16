@@ -1,0 +1,11 @@
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\bin\Debug\netcoreapp2.1\Prova_Bimestral_First.deps.json
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\bin\Debug\netcoreapp2.1\Prova_Bimestral_First.runtimeconfig.json
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\bin\Debug\netcoreapp2.1\Prova_Bimestral_First.runtimeconfig.dev.json
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\bin\Debug\netcoreapp2.1\Prova_Bimestral_First.dll
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\bin\Debug\netcoreapp2.1\Prova_Bimestral_First.pdb
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\obj\Debug\netcoreapp2.1\Prova_Bimestral_First.csprojAssemblyReference.cache
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\obj\Debug\netcoreapp2.1\Prova_Bimestral_First.csproj.CoreCompileInputs.cache
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\obj\Debug\netcoreapp2.1\Prova_Bimestral_First.AssemblyInfoInputs.cache
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\obj\Debug\netcoreapp2.1\Prova_Bimestral_First.AssemblyInfo.cs
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\obj\Debug\netcoreapp2.1\Prova_Bimestral_First.dll
+C:\Users\Larissa.Tavares\Desktop\Learning_C#\Avaliacao\Prova_Bimestral_First\Prova_Bimestral_First\obj\Debug\netcoreapp2.1\Prova_Bimestral_First.pdb
